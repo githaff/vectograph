@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/code.png</file>
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/design.png</file>
+        <file>images/floppy.png</file>
+        <file>images/help.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/option.png</file>
+        <file>images/paste.png</file>
+        <file>images/play.png</file>
+        <file>images/play2.png</file>
+        <file>images/save.png</file>
+        <file>images/support.png</file>
+        <file>images/text.png</file>
+        <file>images/newFile.png</file>
+        <file>images/oldPen.png</file>
+        <file>images/brushes.png</file>
+        <file>images/gates.png</file>
+        <file>images/folder.png</file>
+        <file>images/openFile.png</file>
+        <file>images/settings.png</file>
+        <file>images/pencil.png</file>
+        <file>images/pen.png</file>
+        <file>images/pointer.png</file>
+        <file>images/polyline.png</file>
+        <file>images/Redo.png</file>
+        <file>images/SaveFile.png</file>
+        <file>images/selectRegion.png</file>
+        <file>images/star.png</file>
+        <file>images/typography.png</file>
+        <file>images/Undo.png</file>
+        <file>images/Palette.png</file>
+        <file>images/warning.png</file>
+        <file>images/circle.png</file>
+        <file>images/ellipse.png</file>
+        <file>images/line.png</file>
+        <file>images/path.png</file>
+        <file>images/rectangle.png</file>
+    </qresource>
+</RCC>
